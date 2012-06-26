@@ -1,0 +1,3 @@
+HelpFrame
+HelpPanel
+HelpPanel$HelpInfo
